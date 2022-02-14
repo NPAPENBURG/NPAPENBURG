@@ -1,5 +1,8 @@
 ### Hi there 👋, I'm Nic!
 
+![giphy](https://user-images.githubusercontent.com/60982660/153955240-d5b575d3-212a-4bcd-aac6-576bd86a84c9.gif)
+
+
 
 - 🔭 I’m currently working on a Data Engineer project for my resume
 - 🌱 I’m currently learning docker and airflow
