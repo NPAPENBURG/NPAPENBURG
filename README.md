@@ -2,8 +2,8 @@
 
 
 
-- 🔭 I’m currently working on a Data Engineer ETL Pipeline project using Spotify and Weather
-- 🌱 I’m currently learning docker and airflow
+- 🔭 I currently work for Storable as a Data Engineer
+- 🌱 I’m currently working towards my AWS Architect Associate Certification
 - 👯 I’m looking to collaborate on new app ideas
 - 💬 Ask me about ANYTHING! I like to meet new people and learn new things
 - 📫 How to reach me: https://www.linkedin.com/in/nicholaspapenburg/
